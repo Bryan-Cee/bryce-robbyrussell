@@ -1,0 +1,54 @@
+{
+  "workbench.colorTheme": "Ayu Dark",
+  "atomKeymap.promptV3Features": true,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.formatOnPaste": true,
+  "workbench.iconTheme": "vscode-great-icons",
+  "workbench.sideBar.location": "right",
+  "workbench.editor.enablePreview": false,
+  "workbench.editor.enablePreviewFromQuickOpen": false,
+  "editor.fontFamily": "'Source Code Pro', Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontSize": 14,
+  "workbench.startupEditor": "newUntitledFile",
+  "codemetrics.basics.ComplexityLevelHigh": 15,
+  "codemetrics.basics.ComplexityLevelNormal": 10,
+  "codemetrics.basics.EnabledForJSX": false,
+  "codemetrics.basics.EnabledForHTML": false,
+  "codemetrics.basics.DiagnosticsEnabled": true,
+  "codemetrics.basics.EnabledForTSX": false,
+  "codemetrics.nodeconfiguration.JsxElement": 0,
+  "codemetrics.nodeconfiguration.JsxSelfClosingElement": 0,
+  "cSpell.userWords": [
+    "ROBBYRUSSELL",
+    "datasource",
+    "datasources",
+    "fullstack",
+    "isemail",
+    "toastr"
+  ],
+  "search.exclude": {
+    "**/.idea": true
+  },
+  "debug.inlineValues": true,
+  "explorer.autoReveal": false,
+  "css.lint.float": "warning",
+  "css.lint.important": "warning",
+  "css.lint.zeroUnits": "warning",
+  "css.lint.duplicateProperties": "error",
+  "html.format.endWithNewline": true,
+  "prettier.eslintIntegration": true,
+  "editor.minimap.enabled": false,
+  "editor.renderControlCharacters": false,
+  "editor.renderWhitespace": "all",
+  "workbench.activityBar.visible": true,
+  "workbench.statusBar.visible": false,
+  "files.autoSave": "afterDelay",
+  "explorer.confirmDelete": false,
+  "editor.tabSize": 2,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[markdown]": {
+    "editor.defaultFormatter": "yzhang.markdown-all-in-one"
+  },
+}
