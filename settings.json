@@ -15,9 +15,7 @@
       "sideBar.foreground": "#f0f0f0",
       "sideBar.background": "#141414",
       "list.hoverBackground": "#474747",
-      "list.hoverForeground": "#000000",
-      "menu.background": "#ff0000",
-      "settings.dropdownBackground": "#ff0000"
+      "list.hoverForeground": "#d1d1d1",
     }
   },
   "workbench.startupEditor": "newUntitledFile",
@@ -45,7 +43,7 @@
   "css.lint.float": "warning",
   "css.lint.important": "warning",
   "css.lint.zeroUnits": "warning",
-  "css.lint.duplicateProperties": "error",
+  "css.lint.duplicateProperties": "warning",
   "html.format.endWithNewline": true,
   "prettier.eslintIntegration": true,
   "editor.minimap.enabled": false,
@@ -71,4 +69,18 @@
   "[json]": {
     "editor.defaultFormatter": "vscode.json-language-features"
   },
+  "scss.lint.float": "warning",
+  "scss.lint.argumentsInColorFunction": "warning",
+  "scss.lint.duplicateProperties": "warning",
+  "scss.lint.universalSelector": "warning",
+  "emojisense.unicodeCompletionsEnabled": true,
+  "emojisense.markupCompletionsEnabled": false,
+  "emojisense.languages": {
+    "markdown": true,
+    "git-commit": false,
+    "plaintext": false,
+    "json": true,
+    "javascript": true
+  },
+  "javascript.validate.enable": false
 }
