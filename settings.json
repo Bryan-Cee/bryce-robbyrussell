@@ -24,6 +24,9 @@
         "list.highlightForeground": "#0f0c0c",
         "list.focusForeground": "#dadada",
         "editor.selectionBackground": "#323e47",
+        "editorLineNumber.activeForeground": "#ff0000",
+        "editorLineNumber.foreground": "#8d7878",
+        "editor.lineHighlightBackground": "#3a3a3a79",
       }
     },
     "workbench.startupEditor": "newUntitledFile",
@@ -64,7 +67,7 @@
     "explorer.confirmDelete": false,
     "editor.tabSize": 2,
     "[javascript]": {
-      "editor.defaultFormatter": "esbenp.prettier-vscode"
+      "editor.defaultFormatter": "vscode.typescript-language-features"
     },
     "[markdown]": {
       "editor.defaultFormatter": "yzhang.markdown-all-in-one"
@@ -90,6 +93,19 @@
       "json": true,
       "javascript": true
     },
-    "javascript.validate.enable": false
+    "javascript.validate.enable": false,
+    "eslint.alwaysShowStatus": true,
+    "eslint.enable": true,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "[typescriptreact]": {
+      "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "files.exclude": {
+      "**/.idea": true,
+      "**/.vscode": true,
+      "**/node_modules": true
+    },
+    "python.jediEnabled": false,
+    "javascript.format.insertSpaceAfterConstructor": true,
   }
   
