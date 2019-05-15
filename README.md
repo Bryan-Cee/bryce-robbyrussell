@@ -4,6 +4,9 @@ This is an [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) theme based on
 
 ## Preview
 
+![new teminal](https://user-images.githubusercontent.com/19145546/57792129-fd253180-7746-11e9-9ffb-7041d62eedbc.png)
+
+
 ## Requirements
 
 * Powerline Fonts
