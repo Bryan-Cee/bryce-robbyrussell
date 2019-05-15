@@ -18,7 +18,7 @@ This is an [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) theme based on
 
 ### [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/wiki/Installing-ZSH)
 
-1. Download the **bryce-robbyrussell.theme** file and put it in `.oh-my-zsh/themes`
+1. Download the **bryce-robbyrussell.zsh-theme** file and put it in `.oh-my-zsh/themes`
 2. Configure `~/.zshrc`
 
 ```code
