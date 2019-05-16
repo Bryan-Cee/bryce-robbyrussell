@@ -24,3 +24,7 @@ This is an [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) theme based on
 ```code
 ZSH_THEME="bryce-robbyrussell"
 ```
+
+## LICENSE
+
+`Bryce-robbyrussell Theme`  is under the MIT License
